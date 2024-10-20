@@ -16,7 +16,7 @@
           {{ if eq $translation.Lang .Lang }}
             {{ $selected := false }}
             {{ if eq $pageLang .Lang }}
-                <br/><span class="active">$ echo $LANG<br/><b>{{ .LanguageName }}</b></span><br/>
+                <!-- <br/><span class="active">$ echo $LANG<br/><b>{{ .LanguageName }}</b></span><br/> -->
 
             {{ else }}
                 <br/><a href="{{ $translation.Permalink }}">export LANG={{ .LanguageName }}; ./{{ $pageName }}</a><br/>
