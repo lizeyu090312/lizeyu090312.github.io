@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50860/</loc>
+    <loc>http://lizeyu090312.github.io/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50860/categories/</loc>
+    <loc>http://lizeyu090312.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:50860/cv/</loc>
+    <loc>http://lizeyu090312.github.io/cv/</loc>
   </url><url>
-    <loc>http://localhost:50860/projects/</loc>
+    <loc>http://lizeyu090312.github.io/projects/</loc>
   </url><url>
-    <loc>http://localhost:50860/series/</loc>
+    <loc>http://lizeyu090312.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:50860/tags/</loc>
+    <loc>http://lizeyu090312.github.io/tags/</loc>
   </url>
 </urlset>
