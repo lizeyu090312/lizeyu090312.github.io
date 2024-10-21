@@ -5,6 +5,7 @@ date = "2024-10-20"
 author = "Zeyu Michael Li"
 +++
 
+
 # About Me
 Hi! 
 I am a final year Undergraduate Student at **Duke University** double majoring in Electrical and Computer Engineering with a minor in German. I'm **applying to PhD programs** during the Fall 2024 cycle and look plan to starting my PhD journey in Fall 2025. 

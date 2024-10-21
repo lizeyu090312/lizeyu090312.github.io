@@ -3,7 +3,7 @@ languageCode = 'en-us'
 theme = "risotto"
 title = "michael"
 author = "Zeyu Michael Li"
-paginate = 3
+pagination.pagerSize = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -17,13 +17,12 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-light"
+palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
 title = "Zeyu Michael Li"
-description = ""
-picture = "images/me.jpg"
+description = "Undergraduate Student at Duke University, Pratt School of Engineering"
 
 # Sidebar: social links
 # Available icon sets:

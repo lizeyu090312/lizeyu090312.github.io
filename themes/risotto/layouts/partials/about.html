@@ -4,6 +4,9 @@
 <h1 class="about__title">{{ .title }}</h1>
 {{ with .description }}<p class="about__description">{{ . | markdownify }}</p>{{ end }}
 </div>
+<div class="sidebar-image">
+    <img src="{{ "images/me.jpg" | absURL }}" alt="Sidebar Image" />
+</div>
 {{ end }}
 
 <ul class="aside__social-links">

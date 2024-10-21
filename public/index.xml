@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>michael</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:50860/</link>
     <description>Recent content on michael</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50860/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>http://localhost:50860/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>http://localhost:50860/cv/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Duke University, Durham, NC, USA&lt;/strong&gt; &lt;br&gt;&#xA;B.S.E in Electrical and Computer Engineering, Computer Science (Double Major) &lt;br&gt;&#xA;Minor in German &lt;br&gt;&#xA;August 2021 - May 2025 &lt;br&gt;&#xA;Coursework: Intro to Machine Learning, Adversarial Machine Learning, Comp Arch for Deep Learning, Computer and Information Security, Secure Software Systems, Optimisation, Digital Systems;&#xA;GPA: 4.000/4.000 &lt;br&gt;&#xA;Pratt Research Fellow, Deans List with Distinction (every semester), Member of Tau Beta Pi The Engineering Honor Society.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Research Experience&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Generating Polytopes using Generative Models&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;With Prof. Ethan Xingyuan Fang and Prof. Junwei Lu (Harvard)&lt;/strong&gt;&lt;/em&gt; &lt;br&gt;&#xA;Use generative models to produce polytopes with desirable properties, Sep 2024/to present.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:50860/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Using Interleaved Ensemble Unlearning to Keep Backdoors at Bay&lt;/strong&gt;&#xA;Many backdoor defences exist for image classification tasks in litertature but prior work have not focused on developing backdoor defenses tailored to Vision Transformers (ViT) and existing defenses result in worse performance on ViTs compared to Convolutional Neural Networks (CNNs). To fill this gap, I developed a novel backdoor defence in this independent project that uses a trigger-only mini-ViT to capture easily learned samples and unlearn them during fine-tuning, preventing the injection of backdoor triggers when fine-tuning the ViT. My defence is not limited to defending ViTs and also serves as an alternative unlearning-based defence for other model architectures. Under review at ICLR 2025. &lt;br&gt;&#xA;Link to the project&amp;rsquo;s &lt;a href=&#34;https://arxiv.org/abs/2410.01128&#34;&gt;paper&lt;/a&gt; (code is coming soon&amp;hellip;)&lt;/p&gt;</description>
+      <guid>http://localhost:50860/projects/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Using Interleaved Ensemble Unlearning to Keep Backdoors at Bay&lt;/strong&gt; &lt;br&gt;&#xA;Many backdoor defences exist for image classification tasks in litertature but prior work have not focused on developing backdoor defenses tailored to Vision Transformers (ViT) and existing defenses result in worse performance on ViTs compared to Convolutional Neural Networks (CNNs). To fill this gap, I developed a novel backdoor defence in this independent project that uses a trigger-only mini-ViT to capture easily learned samples and unlearn them during fine-tuning, preventing the injection of backdoor triggers when fine-tuning the ViT. My defence is not limited to defending ViTs and also serves as an alternative unlearning-based defence for other model architectures. Under review at ICLR 2025. &lt;br&gt;&#xA;Link to the project&amp;rsquo;s &lt;a href=&#34;https://arxiv.org/abs/2410.01128&#34;&gt;paper&lt;/a&gt; (code is coming soon&amp;hellip;)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
