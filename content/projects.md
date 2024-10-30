@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Using Interleaved Ensemble Unlearning to Keep Backdoors at Bay** \
-Many backdoor defences exist for image classification tasks in litertature but prior work have not focused on developing backdoor defenses tailored to Vision Transformers (ViT) and existing defenses result in worse performance on ViTs compared to Convolutional Neural Networks (CNNs). To fill this gap, I developed a novel backdoor defence in this independent project that uses a trigger-only mini-ViT to capture easily learned samples and unlearn them during fine-tuning, preventing the injection of backdoor triggers when fine-tuning the ViT. My defence is not limited to defending ViTs and also serves as an alternative unlearning-based defence for other model architectures. Under review at ICLR 2025. \
+Many backdoor defences exist for image classification tasks in litertature but prior work have not focused on developing backdoor defenses tailored to Vision Transformers (ViT) and existing defenses result in worse performance on ViTs compared to Convolutional Neural Networks (CNNs). To fill this gap, I developed a novel backdoor defence in this independent project that uses a trigger-only mini-ViT to capture easily learned samples and unlearn them during fine-tuning, preventing the injection of backdoor triggers when fine-tuning the ViT. My defence is not limited to defending ViTs and also serves as an alternative unlearning-based defence for other model architectures. I sincerely thank Prof. Tingjun Chen for providing most of this project's computing resources. Under review. \
 Link to the project's [paper](https://arxiv.org/abs/2410.01128) (code is coming soon...)
 
 **High-Fidelity RF Signal Mapping Using Geographic Databases** \
