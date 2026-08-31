@@ -1,7 +1,7 @@
-baseURL = 'http://lizeyu090312.github.io/'
+baseURL = 'https://lizeyu090312.github.io/'
 languageCode = 'en-us'
 theme = "risotto"
-title = "michael"
+title = "Zeyu Michael Li"
 author = "Zeyu Michael Li"
 pagination.pagerSize = 3
 DefaultContentLanguage = "en"
@@ -22,7 +22,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Zeyu Michael Li"
-description = "Undergraduate Student at Duke University, Pratt School of Engineering"
+description = "PhD Student in Electrical and Computer Engineering at Duke University"
 
 # Sidebar: social links
 # Available icon sets:
@@ -34,6 +34,11 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/lizeyu090312"
 
+[[params.socialLinks]]
+icon = "ai ai-google-scholar"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=IG8RcYwAAAAJ"
+
 
 [menu]
 
@@ -44,9 +49,9 @@ url = "https://github.com/lizeyu090312"
     weight = 10
  
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
     weight = 10
 
 [taxonomies]
