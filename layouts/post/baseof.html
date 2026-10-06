@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Lang }}">
+<head>
+    {{ partial "head.html" . }}
+    <link rel="stylesheet" href="{{ "css/research-post.css" | relURL }}">
+</head>
+<body>
+    <div class="page research-page">
+        <header class="page__header">{{ partial "header.html" . }}</header>
+        <main class="page__body">{{ block "main" . }}{{ end }}</main>
+        <footer class="page__footer">{{ partial "footer.html" . }}</footer>
+    </div>
+</body>
+</html>
